@@ -12,6 +12,6 @@ about:
       href: https://scholar.google.de/citations?user=fpofvUUAAAAJ&hl=de&oi=ao
 ---
 
-I am an applied economist and doctoral researcher at the Institute for Food and Resource Economics (ILR) at the University of Bonn. 
+I am an applied economist and doctoral researcher at the Institute for Food and Resource Economics (ILR) at the University of Bonn.
 
 My research focuses on land-use change, environmental policies, and impact evaluation, particularly in the Brazilian Amazon. I also occasionally write tutorials on spatial data analysis in R.

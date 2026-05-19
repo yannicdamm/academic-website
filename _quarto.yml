@@ -15,7 +15,7 @@ website:
       - href: cv.pdf # You will drop your CV pdf in the main folder later
         text: CV
     right:
-      - icon: orcid
+      - text: "{{< ai orcid >}}"
         href: https://orcid.org/0000-0002-3464-5347
       - icon: linkedin
         href: https://www.linkedin.com/in/yannic-damm/
@@ -27,6 +27,8 @@ format:
     theme: cosmo # 'cosmo', 'litera', or 'flatly' are great, clean academic themes
     css: styles.css
     toc: true
+    extensions:
+      - schochastics/academicons
 
 editor: visual
 
