@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Yannic Damm",
+    "section": "",
+    "text": "I am an applied economist and doctoral researcher at the Institute for Food and Resource Economics (ILR) at the University of Bonn.\nMy research focuses on land-use change, environmental policies, and impact evaluation, particularly in the Brazilian Amazon. I also occasionally write tutorials on spatial data analysis in R."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research interests lie at the intersection of environmental economics, development economics, and impact evaluation. I primarily study land-use change, environmental policy enforcement, and the socio-economic and health co-benefits of conservation policies, with a strong regional focus on the Brazilian Amazon."
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "Working Papers",
+    "text": "Working Papers\n\nBalancing Growth and Conservation: The Economic Impact of Environmental Enforcement in the Brazilian Amazon (2025)\nYannic Damm, Gustavo Magalhães de Oliveira, & Jan Börner.\nAvailable at SSRN 5898282.\nSSRN Working Paper Link"
+  },
+  {
+    "objectID": "research.html#work-in-progress",
+    "href": "research.html#work-in-progress",
+    "title": "Research",
+    "section": "Work in Progress",
+    "text": "Work in Progress\n\nSpatial Econometric Analysis of Agricultural Expansion in Brazil\nEvaluating Policy Mixes in Tropical Forest Conservation"
+  },
+  {
+    "objectID": "research.html#publications-peer-reviewed-articles",
+    "href": "research.html#publications-peer-reviewed-articles",
+    "title": "Research",
+    "section": "Publications & Peer-Reviewed Articles",
+    "text": "Publications & Peer-Reviewed Articles\n\nExplaining compliance with voluntary sustainability standards: A case study from Colombia’s coffee belt (2025)\nPaulo Mortara Batistic, Thomas Dietz, Jan Börner, & Yannic Rudá Damm.\nSustainable Development, 33(1), 1417-1440.\nPublisher Link\nHealth benefits of reduced deforestation in the Brazilian Amazon (2024)\nYannic Damm, Jan Börner, Nicolas Gerber, & Britaldo Soares Filho.\nCommunications Earth & Environment, 5(1), 693.\nPublisher Link\nBeyond Deforestation Reductions: Public Disclosure, Land-Use Change and Commodity Sourcing (2024)\nYannic Damm, Elías Cisneros, & Jan Börner.\nWorld Development, 175, 106481.\nPublisher Link\nSDGs trade‐offs associated with voluntary sustainability standards: A case study from the coffee sector in Costa Rica (2024)\nKarla Rubio‐Jovel, Jorge Sellare, Yannic Damm, & Thomas Dietz.\nSustainable Development, 32(1), 917–39.\nPublisher Link"
+  },
+  {
+    "objectID": "research.html#dissertation",
+    "href": "research.html#dissertation",
+    "title": "Research",
+    "section": "Dissertation",
+    "text": "Dissertation\n\nBeyond Deforestation Reductions: Co-Benefits of Conservation Policies in the Brazilian Amazon (2026)\nYannic Rudá Damm.\nUniversitäts- und Landesbibliothek Bonn.\nLibrary Link"
+  },
+  {
+    "objectID": "research.html#media-outreach",
+    "href": "research.html#media-outreach",
+    "title": "Research",
+    "section": "Media & Outreach",
+    "text": "Media & Outreach\n\nPodcast: Rainforest conservation is bad for the economy!? (2026)\nA discussion on the relationship between rainforest conservation and the economic, health outcomes, and crime. With Gustavo Magalhães de Oliveira on the University of Bonn’s Hypothese podcast.\nNews Article: Our paper “Health Benefits of Reduced Deforestation in the Brazilian Amazon” in Communications Earth & Environment gathered some media attention. There was a press release by the University of Bonn and later the publication was covered by the Deutsche Welle and Brazilian news outlets O Globo and Agência Pública.\nBlogpost: Can public scrutiny make supply chains more sustainable? (2024)\nA summary of our paper “Beyond Deforestation Reductions: Public Disclosure, Land-Use Change and Commodity Sourcing” in World Development on the evidence from Brazilian municipalities which suggests that reputational risk exposure can reduce deforestation and intensify agriculture. With Elías Cisneros & Jan Börner on the United Nations Industrial Development Organization’s Industrial Analytics Platform."
+  },
+  {
+    "objectID": "research.html#replication-code-data",
+    "href": "research.html#replication-code-data",
+    "title": "Research",
+    "section": "Replication Code & Data",
+    "text": "Replication Code & Data\n\nReplication Code & Data for: Health benefits of reduced deforestation in the Brazilian Amazon (2024)\nYannic Damm.\nBonndata.\nLink"
+  }
+]

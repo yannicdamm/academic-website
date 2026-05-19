@@ -1,0 +1,29 @@
+project:
+  type: website
+
+website:
+  title: "Yannic Damm"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: cv.pdf # You will drop your CV pdf in the main folder later
+        text: CV
+    right:
+      - icon: orcid
+        href: https://orcid.org/0000-0002-3464-5347
+      - icon: linkedin
+        href: https://www.linkedin.com/in/yannic-damm/
+      - icon: github
+        href: https://github.com/yannicdamm
+        
+format:
+  html:
+    theme: cosmo # 'cosmo', 'litera', or 'flatly' are great, clean academic themes
+    css: styles.css
+    toc: true
+
+editor: visual
+
