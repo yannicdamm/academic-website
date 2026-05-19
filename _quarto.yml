@@ -17,6 +17,8 @@ website:
     right:
       - text: "{{< ai orcid >}}"
         href: https://orcid.org/0000-0002-3464-5347
+      - text: "{{< ai researchgate >}}"
+        href: https://www.researchgate.net/profile/Yannic-Damm
       - icon: linkedin
         href: https://www.linkedin.com/in/yannic-damm/
       - icon: github
