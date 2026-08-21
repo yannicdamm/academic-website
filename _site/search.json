@@ -1,52 +1,24 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Yannic Damm",
-    "section": "",
-    "text": "I am an environmental economist, postdoctoral researcher, and lecturer at the Institute for Food and Resource Economics at the University of Bonn.\nUsing spatial econometrics and impact evaluation methodologies, my work aims to understand how environmental policies shape land-use dynamics and human well-being in critical ecosystems.\n\nResearch Interests\n\nEnvironmental & Development Economics: Policy enforcement, tropical deforestation, and conservation incentives.\nHealth & Climate Co-benefits: Quantifying the localized socio-economic and public health impacts of ecosystem protection.\nSpatial Data Science: Leveraging R and geospatial econometrics to evaluate policy outcomes.\n\nFeel free to explore my latest working papers in the Research tab or reach out via email for potential collaborations!"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Explaining compliance with voluntary sustainability standards: A case study from Colombia’s coffee belt (2025)\nPaulo Mortara Batistic, Thomas Dietz, Jan Börner, & Yannic Rudá Damm.\nSustainable Development, 33(1), 1417-1440.\nPublisher Link\nHealth benefits of reduced deforestation in the Brazilian Amazon (2024)\nYannic Damm, Jan Börner, Nicolas Gerber, & Britaldo Soares Filho.\nCommunications Earth & Environment, 5(1), 693.\nPublisher Link\nBeyond Deforestation Reductions: Public Disclosure, Land-Use Change and Commodity Sourcing (2024)\nYannic Damm, Elías Cisneros, & Jan Börner.\nWorld Development, 175, 106481.\nPublisher Link\nSDGs trade‐offs associated with voluntary sustainability standards: A case study from the coffee sector in Costa Rica (2024)\nKarla Rubio‐Jovel, Jorge Sellare, Yannic Damm, & Thomas Dietz.\nSustainable Development, 32(1), 917–39.\nPublisher Link"
-  },
-  {
-    "objectID": "research.html#working-papers",
-    "href": "research.html#working-papers",
-    "title": "Research",
-    "section": "Working Papers",
-    "text": "Working Papers\n\nBalancing Growth and Conservation: The Economic Impact of Environmental Enforcement in the Brazilian Amazon (2025)\nYannic Damm, Gustavo Magalhães de Oliveira, & Jan Börner.\nAvailable at SSRN 5898282.\nSSRN Working Paper Link"
-  },
-  {
-    "objectID": "research.html#work-in-progress",
-    "href": "research.html#work-in-progress",
-    "title": "Research",
-    "section": "Work in Progress",
-    "text": "Work in Progress\n\nSpatial Econometric Analysis of Agricultural Expansion in Brazil\nEvaluating Policy Mixes in Tropical Forest Conservation"
+    "text": "Explaining compliance with voluntary sustainability standards: A case study from Colombia’s coffee belt (2025)\nPaulo Mortara Batistic, Thomas Dietz, Jan Börner, & Yannic Rudá Damm.\nSustainable Development, 33(1), 1417-1440.\nDOI: 10.1002/sd.3189\nHealth benefits of reduced deforestation in the Brazilian Amazon (2024)\nYannic Damm, Jan Börner, Nicolas Gerber, & Britaldo Soares Filho.\nCommunications Earth & Environment, 5(1), 693.\nDOI: 10.1038/s43247-024-01840-7\nBeyond Deforestation Reductions: Public Disclosure, Land-Use Change and Commodity Sourcing (2024)\nYannic Damm, Elías Cisneros, & Jan Börner.\nWorld Development, 175, 106481.\nDOI: 10.1016/j.worlddev.2023.106481\nSDGs trade‐offs associated with voluntary sustainability standards: A case study from the coffee sector in Costa Rica (2024)\nKarla Rubio‐Jovel, Jorge Sellare, Yannic Damm, & Thomas Dietz.\nSustainable Development, 32(1), 917–39.\nDOI: 10.1002/sd.2701"
   },
   {
     "objectID": "research.html#publications-peer-reviewed-articles",
     "href": "research.html#publications-peer-reviewed-articles",
     "title": "Research",
     "section": "",
-    "text": "Explaining compliance with voluntary sustainability standards: A case study from Colombia’s coffee belt (2025)\nPaulo Mortara Batistic, Thomas Dietz, Jan Börner, & Yannic Rudá Damm.\nSustainable Development, 33(1), 1417-1440.\nPublisher Link\nHealth benefits of reduced deforestation in the Brazilian Amazon (2024)\nYannic Damm, Jan Börner, Nicolas Gerber, & Britaldo Soares Filho.\nCommunications Earth & Environment, 5(1), 693.\nPublisher Link\nBeyond Deforestation Reductions: Public Disclosure, Land-Use Change and Commodity Sourcing (2024)\nYannic Damm, Elías Cisneros, & Jan Börner.\nWorld Development, 175, 106481.\nPublisher Link\nSDGs trade‐offs associated with voluntary sustainability standards: A case study from the coffee sector in Costa Rica (2024)\nKarla Rubio‐Jovel, Jorge Sellare, Yannic Damm, & Thomas Dietz.\nSustainable Development, 32(1), 917–39.\nPublisher Link"
+    "text": "Explaining compliance with voluntary sustainability standards: A case study from Colombia’s coffee belt (2025)\nPaulo Mortara Batistic, Thomas Dietz, Jan Börner, & Yannic Rudá Damm.\nSustainable Development, 33(1), 1417-1440.\nDOI: 10.1002/sd.3189\nHealth benefits of reduced deforestation in the Brazilian Amazon (2024)\nYannic Damm, Jan Börner, Nicolas Gerber, & Britaldo Soares Filho.\nCommunications Earth & Environment, 5(1), 693.\nDOI: 10.1038/s43247-024-01840-7\nBeyond Deforestation Reductions: Public Disclosure, Land-Use Change and Commodity Sourcing (2024)\nYannic Damm, Elías Cisneros, & Jan Börner.\nWorld Development, 175, 106481.\nDOI: 10.1016/j.worlddev.2023.106481\nSDGs trade‐offs associated with voluntary sustainability standards: A case study from the coffee sector in Costa Rica (2024)\nKarla Rubio‐Jovel, Jorge Sellare, Yannic Damm, & Thomas Dietz.\nSustainable Development, 32(1), 917–39.\nDOI: 10.1002/sd.2701"
   },
   {
-    "objectID": "research.html#dissertation",
-    "href": "research.html#dissertation",
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
     "title": "Research",
-    "section": "Dissertation",
-    "text": "Dissertation\n\nBeyond Deforestation Reductions: Co-Benefits of Conservation Policies in the Brazilian Amazon (2026)\nYannic Rudá Damm.\nUniversitäts- und Landesbibliothek Bonn.\nLibrary Link"
+    "section": "Working Papers",
+    "text": "Working Papers\n\nBalancing Growth and Conservation: The Economic Impact of Environmental Enforcement in the Brazilian Amazon (2025)\nYannic Damm, Gustavo Magalhães de Oliveira, & Jan Börner.\nAvailable at SSRN 5898282."
   },
   {
     "objectID": "research.html#media-outreach",
@@ -60,6 +32,27 @@
     "href": "research.html#replication-code-data",
     "title": "Research",
     "section": "Replication Code & Data",
-    "text": "Replication Code & Data\n\nReplication Code & Data for: Health benefits of reduced deforestation in the Brazilian Amazon (2024)\nYannic Damm.\nBonndata.\nLink"
+    "text": "Replication Code & Data\n\nReplication Code & Data for: Health benefits of reduced deforestation in the Brazilian Amazon (2024)\nYannic Damm.\nBonndata.\nDOI: 10.60507/FK2/OWKNFV"
+  },
+  {
+    "objectID": "research.html#dissertation",
+    "href": "research.html#dissertation",
+    "title": "Research",
+    "section": "Dissertation",
+    "text": "Dissertation\n\nBeyond Deforestation Reductions: Co-Benefits of Conservation Policies in the Brazilian Amazon (2026)\nYannic Rudá Damm.\nUniversitäts- und Landesbibliothek Bonn.\nDOI: 10.48565/bonndoc-838"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Yannic Damm",
+    "section": "",
+    "text": "I am an environmental economist, postdoctoral researcher, and lecturer at the Institute for Food and Resource Economics at the University of Bonn.\nUsing spatial econometrics and impact evaluation methodologies, my work aims to understand how environmental policies shape land-use dynamics and human well-being in critical ecosystems.\n\nResearch Interests\n\nEnvironmental & Development Economics: Policy enforcement, tropical deforestation, and conservation incentives.\nHealth & Climate Co-benefits: Quantifying the localized socio-economic and public health impacts of ecosystem protection.\nSpatial Data Science: Leveraging R and geospatial econometrics to evaluate policy outcomes.\n\nFeel free to explore my latest working papers in the Research tab or reach out via email for potential collaborations!"
   }
 ]
