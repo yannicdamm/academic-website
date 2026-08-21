@@ -19,6 +19,12 @@ This paper examines the causal economic impacts of environmental enforcement in 
 Paulo Mortara Batistic, Thomas Dietz, Jan Börner, & **Yannic Rudá Damm** (2025). Explaining Compliance with Voluntary Sustainability Standards: A Case Study from Colombia's Coffee Belt. *Sustainable Development* 33 (1): 1417–1440. DOI: [10.1002/sd.3189](https://doi.org/10.1002/sd.3189){.btn .btn-outline-primary .btn-sm role="button"}.
 
 ::: {.callout-note collapse="true" icon="false"}
+## Abstract
+
+This paper aims to explain producer compliance with Voluntary Sustainability Standards (VSS), instruments of private governance regarded as key to solving sustainability issues in global value chains. We employ a dataset of 194 Colombian coffee producers who are certified by one or more VSS to break down the factors leading to farmer compliance with environmental criteria linked to VSS. In total, we analyse 19 environmental criteria, derived from 10 obligations from five different sustainability standards. We expect compliance to be explained by different theoretical approaches, being either rational choice, capacity, legitimacy, or opportunity, operationalised by grouping related variables. Rational choice and legitimacy-related drivers, as well as opportunity, show mostly positive, mild to strong effects on compliance, while capacity variables show no significant effect. We propose that a hybrid approach among theories explains coffee farmers' compliance with environmental VSS requirements, empowering policy-makers and standard setters to adjust practices and policies accordingly.
+:::
+
+::: {.callout-note collapse="true" icon="false"}
 ## BibTeX
 
 ``` bibtex
@@ -133,7 +139,8 @@ Karla Rubio‐Jovel, Jorge Sellare, **Yannic Damm**, & Thomas Dietz (2024). SDGs
 
 **Replication Code & Data for: Health benefits of reduced deforestation in the Brazilian Amazon** (2024)\
 Yannic Damm\
-*Bonndata* DOI: [10.60507/FK2/OWKNFV](https://doi.org/10.60507/FK2/OWKNFV)
+*Bonndata*\
+DOI: [10.60507/FK2/OWKNFV](https://doi.org/10.60507/FK2/OWKNFV)
 
 ------------------------------------------------------------------------
 
@@ -141,7 +148,8 @@ Yannic Damm\
 
 **Beyond Deforestation Reductions: Co-Benefits of Conservation Policies in the Brazilian Amazon** (2026)\
 Yannic Rudá Damm\
-*Universitäts- und Landesbibliothek Bonn* DOI: [10.48565/bonndoc-838](https://doi.org/10.48565/bonndoc-838)
+*Universitäts- und Landesbibliothek Bonn*\
+DOI: [10.48565/bonndoc-838](https://doi.org/10.48565/bonndoc-838)
 
 ------------------------------------------------------------------------
 
