@@ -4,7 +4,7 @@ title: "Research"
 
 ## Working Papers
 
-**Yannic Damm**, Gustavo Magalhães de Oliveira, & Jan Börner (2025). *Balancing Growth and Conservation: The Economic Impact of Environmental Enforcement in the Brazilian Amazon*. SSRN Scholarly Paper, 5898282. DOI: [10.2139/ssrn.5898282](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5898282){.btn .btn-outline-primary .btn-sm role="button"}.{.btn .btn-outline-secondary .btn-sm role="button"}
+**Yannic Damm**, Gustavo Magalhães de Oliveira, & Jan Börner (2025). *Balancing Growth and Conservation: The Economic Impact of Environmental Enforcement in the Brazilian Amazon*. SSRN Scholarly Paper, 5898282. DOI: [10.2139/ssrn.5898282](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5898282){.btn .btn-outline-primary .btn-sm role="button"}
 
 ::: {.callout-note collapse="true" icon="false"}
 ## Abstract
@@ -15,13 +15,13 @@ This paper examines the causal economic impacts of environmental enforcement in 
 ::: {.callout-note collapse="true" icon="false"}
 ## BibTeX
 
-``` bibtex
+```bibtex
 @misc{dammBalancingGrowthConservation2025,
   type = {{{SSRN Scholarly Paper}}},
   title = {Balancing {{Growth}} and {{Conservation}}: {{The Economic Impact}} of {{Environmental Enforcement}} in the {{Brazilian Amazon}}},
   shorttitle = {Balancing {{Growth}} and {{Conservation}}},
   author = {Damm, Yannic and de Oliveira, Gustavo Magalh{\~a}es and B{\"o}rner, Jan},
-  year = 2025,
+  year = {2025},
   month = dec,
   number = {5898282},
   eprint = {5898282},
@@ -37,12 +37,11 @@ This paper examines the causal economic impacts of environmental enforcement in 
 ```
 :::
 
-
-------------------------------------------------------------------------
+---
 
 ## Publications & Peer-Reviewed Articles
 
-Paulo Mortara Batistic, Thomas Dietz, Jan Börner, & **Yannic Rudá Damm** (2025). Explaining Compliance with Voluntary Sustainability Standards: A Case Study from Colombia's Coffee Belt. *Sustainable Development* 33 (1): 1417–1440. DOI: [10.1002/sd.3189](https://doi.org/10.1002/sd.3189){.btn .btn-outline-primary .btn-sm role="button"}.{.btn .btn-outline-secondary .btn-sm role="button"}
+Paulo Mortara Batistic, Thomas Dietz, Jan Börner, & **Yannic Rudá Damm** (2025). Explaining Compliance with Voluntary Sustainability Standards: A Case Study from Colombia's Coffee Belt. *Sustainable Development*, 33(1): 1417–1440. DOI: [10.1002/sd.3189](https://doi.org/10.1002/sd.3189){.btn .btn-outline-primary .btn-sm role="button"}
 
 ::: {.callout-note collapse="true" icon="false"}
 ## Abstract
@@ -53,12 +52,12 @@ This paper aims to explain producer compliance with Voluntary Sustainability Sta
 ::: {.callout-note collapse="true" icon="false"}
 ## BibTeX
 
-``` bibtex
+```bibtex
 @article{batisticExplainingComplianceVoluntary2025,
   title = {Explaining Compliance with Voluntary Sustainability Standards: {{A}} Case Study from {{Colombia}}'s Coffee Belt},
   shorttitle = {Explaining Compliance with Voluntary Sustainability Standards},
   author = {Batistic, Paulo Mortara and Dietz, Thomas and B{\"o}rner, Jan and Damm, Yannic Rud{\'a}},
-  year = 2025,
+  year = {2025},
   journal = {Sustainable Development},
   volume = {33},
   number = {1},
@@ -76,7 +75,7 @@ This paper aims to explain producer compliance with Voluntary Sustainability Sta
 
 <br>
 
-**Yannic Damm**, Jan Börner, Nicolas Gerber, & Britaldo Soares Filho (2024). Health Benefits of Reduced Deforestation in the Brazilian Amazon. *Communications Earth & Environment* 5 (1): 1–9. DOI: [10.1038/s43247-024-01840-7](https://doi.org/10.1038/s43247-024-01840-7).{.btn .btn-outline-primary .btn-sm role="button"}
+**Yannic Damm**, Jan Börner, Nicolas Gerber, & Britaldo Soares Filho (2024). Health Benefits of Reduced Deforestation in the Brazilian Amazon. *Communications Earth & Environment*, 5(1): 693. DOI: [10.1038/s43247-024-01840-7](https://doi.org/10.1038/s43247-024-01840-7){.btn .btn-outline-primary .btn-sm role="button"}
 
 ::: {.callout-note collapse="true" icon="false"}
 ## Abstract
@@ -87,11 +86,11 @@ The conversion of tropical forests in the Amazon region for agriculture and othe
 ::: {.callout-note collapse="true" icon="false"}
 ## BibTeX
 
-``` bibtex
+```bibtex
 @article{dammHealthBenefitsReduced2024,
   title = {Health Benefits of Reduced Deforestation in the {{Brazilian Amazon}}},
   author = {Damm, Yannic and B{\"o}rner, Jan and Gerber, Nicolas and {Soares-Filho}, Britaldo},
-  year = 2024,
+  year = {2024},
   month = nov,
   journal = {Communications Earth \& Environment},
   volume = {5},
@@ -106,14 +105,12 @@ The conversion of tropical forests in the Amazon region for agriculture and othe
   langid = {english},
   keywords = {Environmental economics,Environmental impact,Environmental studies,Forestry}
 }
-
-}
 ```
 :::
 
 <br>
 
-**Yannic Damm**, Elías Cisneros, & Jan Börner (2024). Beyond Deforestation Reductions: Public Disclosure, Land-Use Change and Commodity Sourcing. *World Development* 175: 106481. DOI: [10.1016/j.worlddev.2023.106481](https://doi.org/10.1016/j.worlddev.2023.106481){.btn .btn-outline-primary .btn-sm role="button"}.
+**Yannic Damm**, Elías Cisneros, & Jan Börner (2024). Beyond Deforestation Reductions: Public Disclosure, Land-Use Change and Commodity Sourcing. *World Development*, 175: 106481. DOI: [10.1016/j.worlddev.2023.106481](https://doi.org/10.1016/j.worlddev.2023.106481){.btn .btn-outline-primary .btn-sm role="button"}
 
 ::: {.callout-note collapse="true" icon="false"}
 ## Abstract
@@ -124,12 +121,12 @@ Global commodity supply chains contribute significantly to environmental degrada
 ::: {.callout-note collapse="true" icon="false"}
 ## BibTeX
 
-``` bibtex
+```bibtex
 @article{dammDeforestationReductionsPublic2024,
   title = {Beyond {{Deforestation Reductions}}: {{Public Disclosure}}, {{Land-Use Change}} and {{Commodity Sourcing}}},
   shorttitle = {Beyond {{Deforestation Reductions}}},
   author = {Damm, Yannic and Cisneros, El{\'i}as and B{\"o}rner, Jan},
-  year = 2024,
+  year = {2024},
   month = mar,
   journal = {World Development},
   volume = {175},
@@ -140,15 +137,12 @@ Global commodity supply chains contribute significantly to environmental degrada
   abstract = {Global commodity supply chains contribute significantly to environmental degradation and greenhouse gas emissions. Improving supply chain transparency can create public awareness and encourage relevant actors to improve their ecological footprint. We exploit Brazil's Priority List policy for the Amazon region, a public disclosure mechanism introduced in 2008 that effectively reduced deforestation rates, to study how land users and commodity traders respond to the corresponding reputational risk exposure. Specifically, we combine remotely sensed land use data with spatio-temporally disaggregated soy trade statistics covering 15 years and 770 municipalities to measure the effect of priority listing on land-use change, sourcing patterns, and trade destinations. Using the Generalized Synthetic Control method, we find that priority listing led to a sizeable drop in deforestation and a corresponding reduction in pasture expansion. At the same time, soy expansion increased significantly, but instead of expanding into natural forests, it mostly replaced existing pastures and other cropland. The additional soy production was exported predominantly to China, whereas exports to the EU stagnated.},
   keywords = {Brazilian Amazon,Deforestation,Land-use change,Soy exports,Supply chain}
 }
-
-
-}
 ```
 :::
 
 <br>
 
-Karla Rubio‐Jovel, Jorge Sellare, **Yannic Damm**, & Thomas Dietz (2024). SDGs Trade‐Offs Associated with Voluntary Sustainability Standards: A Case Study from the Coffee Sector in Costa Rica. *Sustainable Development* 32 (1): 917–939- DOI: [10.1002/sd.2701](https://doi.org/10.1002/sd.2701).{.btn .btn-outline-primary .btn-sm role="button"}{.btn .btn-outline-secondary .btn-sm role="button"}
+Karla Rubio‐Jovel, Jorge Sellare, **Yannic Damm**, & Thomas Dietz (2024). SDGs Trade‐Offs Associated with Voluntary Sustainability Standards: A Case Study from the Coffee Sector in Costa Rica. *Sustainable Development*, 32(1): 917–939. DOI: [10.1002/sd.2701](https://doi.org/10.1002/sd.2701){.btn .btn-outline-primary .btn-sm role="button"}
 
 ::: {.callout-note collapse="true" icon="false"}
 ## Abstract
@@ -159,12 +153,12 @@ The transition toward a more sustainable agricultural production has become an e
 ::: {.callout-note collapse="true" icon="false"}
 ## BibTeX
 
-``` bibtex
+```bibtex
 @article{rubio-jovelSDGsTradeoffsAssociated2024,
   title = {{{SDGs}} Trade-Offs Associated with Voluntary Sustainability Standards: {{A}} Case Study from the Coffee Sector in {{Costa Rica}}},
   shorttitle = {{{SDGs}} Trade-Offs Associated with Voluntary Sustainability Standards},
   author = {{Rubio-Jovel}, Karla and Sellare, Jorge and Damm, Yannic and Dietz, Thomas},
-  year = 2024,
+  year = {2024},
   journal = {Sustainable Development},
   volume = {32},
   number = {1},
@@ -180,28 +174,26 @@ The transition toward a more sustainable agricultural production has become an e
 ```
 :::
 
-------------------------------------------------------------------------
+---
 
 ## Replication Code & Data
 
-**Replication Code & Data for: Health benefits of reduced deforestation in the Brazilian Amazon** (2024)\
-Yannic Damm\
-*Bonndata*\
-DOI: [10.60507/FK2/OWKNFV](https://doi.org/10.60507/FK2/OWKNFV)
+**Replication Code & Data for: Health benefits of reduced deforestation in the Brazilian Amazon** (2024)  
+Yannic Damm  
+*Bonndata* · DOI: [10.60507/FK2/OWKNFV](https://doi.org/10.60507/FK2/OWKNFV)
 
-------------------------------------------------------------------------
+---
 
 ## Doctoral Dissertation
 
-**Beyond Deforestation Reductions: Co-Benefits of Conservation Policies in the Brazilian Amazon** (2026)\
-Yannic Rudá Damm\
-*Universitäts- und Landesbibliothek Bonn*\
-DOI: [10.48565/bonndoc-838](https://doi.org/10.48565/bonndoc-838)
+**Beyond Deforestation Reductions: Co-Benefits of Conservation Policies in the Brazilian Amazon** (2026)  
+Yannic Rudá Damm  
+*Universitäts- und Landesbibliothek Bonn* · DOI: [10.48565/bonndoc-838](https://doi.org/10.48565/bonndoc-838)
 
-------------------------------------------------------------------------
+---
 
 ## Media & Outreach
 
-- **Podcast:** [Rainforest conservation is bad for the economy!?](https://www.uni-bonn.de/en/news/rainforest-conservation-is-bad-for-the-economy) (2026) — A discussion on the relationship between rainforest conservation and economic, health outcomes, and crime. With Gustavo Magalhães de Oliveira on the University of Bonn's *Hypothese* podcast.
-- **News Articles:** Our paper "Health Benefits of Reduced Deforestation in the Brazilian Amazon" in *Communications Earth & Environment* gathered media coverage by the [University of Bonn](https://www.uni-bonn.de/en/news/224-2024?set_language=en), [Deutsche Welle](https://www.dw.com/en/brazil-amazon-stop-deforestation-wildfire-public-health-v2/a-70845382), [O Globo](https://oglobo.globo.com/brasil/minas-gerais/noticia/2024/11/18/controle-do-desmatamento-na-amazonia-reduz-internacoes-e-mortes-por-doencas-respiratorias-diz-estudo-da-ufmg.ghtml), and [Agência Pública](https://apublica.org/nota/queda-no-desmatamento-da-amazonia-evitou-internacoes-por-doencas-respiratorias-diz-estudo/).
-- **Blogpost:** [Can public scrutiny make supply chains more sustainable?](https://iap.unido.org/articles/can-public-scrutiny-make-supply-chains-more-sustainable) (2024) — A summary of our paper on how reputational risk exposure can reduce deforestation and intensify agriculture. Featured on the United Nations Industrial Development Organization's Industrial Analytics Platform with Elías Cisneros & Jan Börner.
+* **Podcast:** [Rainforest conservation is bad for the economy!?](https://www.uni-bonn.de/en/news/rainforest-conservation-is-bad-for-the-economy) (2026) — A discussion on the relationship between rainforest conservation and economic, health outcomes, and crime. With Gustavo Magalhães de Oliveira on the University of Bonn's *Hypothese* podcast.
+* **News Articles:** Our paper "Health Benefits of Reduced Deforestation in the Brazilian Amazon" in *Communications Earth & Environment* gathered media coverage by the [University of Bonn](https://www.uni-bonn.de/en/news/224-2024?set_language=en), [Deutsche Welle](https://www.dw.com/en/brazil-amazon-stop-deforestation-wildfire-public-health-v2/a-70845382), [O Globo](https://oglobo.globo.com/brasil/minas-gerais/noticia/2024/11/18/controle-do-desmatamento-na-amazonia-reduz-internacoes-e-mortes-por-doencas-respiratorias-diz-estudo-da-ufmg.ghtml), and [Agência Pública](https://apublica.org/nota/queda-no-desmatamento-da-amazonia-evitou-internacoes-por-doencas-respiratorias-diz-estudo/).
+* **Blogpost:** [Can public scrutiny make supply chains more sustainable?](https://iap.unido.org/articles/can-public-scrutiny-make-supply-chains-more-sustainable) (2024) — A summary of our paper on how reputational risk exposure can reduce deforestation and intensify agriculture. Featured on the United Nations Industrial Development Organization's Industrial Analytics Platform with Elías Cisneros & Jan Börner.
