@@ -76,7 +76,7 @@ This paper aims to explain producer compliance with Voluntary Sustainability Sta
 
 <br>
 
-**Yannic Damm**, Jan Börner, Nicolas Gerber, & Britaldo Soares Filho (2024). Health Benefits of Reduced Deforestation in the Brazilian Amazon. *Communications Earth & Environment* 5 (1): 1–9. DOI: [10.1038/s43247-024-01840-7](https://doi.org/10.1038/s43247-024-01840-7){.btn .btn-outline-primary .btn-sm role="button"}.{.btn .btn-outline-secondary .btn-sm role="button"}
+**Yannic Damm**, Jan Börner, Nicolas Gerber, & Britaldo Soares Filho (2024). Health Benefits of Reduced Deforestation in the Brazilian Amazon. *Communications Earth & Environment* 5 (1): 1–9. DOI: [10.1038/s43247-024-01840-7](https://doi.org/10.1038/s43247-024-01840-7).{.btn .btn-outline-primary .btn-sm role="button"}
 
 ::: {.callout-note collapse="true" icon="false"}
 ## Abstract
@@ -113,7 +113,7 @@ The conversion of tropical forests in the Amazon region for agriculture and othe
 
 <br>
 
-**Yannic Damm**, Elías Cisneros, & Jan Börner (2024). Beyond Deforestation Reductions: Public Disclosure, Land-Use Change and Commodity Sourcing. *World Development* 175: 106481. DOI: [10.1016/j.worlddev.2023.106481](https://doi.org/10.1016/j.worlddev.2023.106481){.btn .btn-outline-primary .btn-sm role="button"}.{.btn .btn-outline-secondary .btn-sm role="button"}
+**Yannic Damm**, Elías Cisneros, & Jan Börner (2024). Beyond Deforestation Reductions: Public Disclosure, Land-Use Change and Commodity Sourcing. *World Development* 175: 106481. DOI: [10.1016/j.worlddev.2023.106481](https://doi.org/10.1016/j.worlddev.2023.106481){.btn .btn-outline-primary .btn-sm role="button"}.
 
 ::: {.callout-note collapse="true" icon="false"}
 ## Abstract
@@ -148,7 +148,7 @@ Global commodity supply chains contribute significantly to environmental degrada
 
 <br>
 
-Karla Rubio‐Jovel, Jorge Sellare, **Yannic Damm**, & Thomas Dietz (2024). SDGs Trade‐Offs Associated with Voluntary Sustainability Standards: A Case Study from the Coffee Sector in Costa Rica. *Sustainable Development* 32 (1): 917–939- DOI: [10.1002/sd.2701](https://doi.org/10.1002/sd.2701){.btn .btn-outline-primary .btn-sm role="button"}.{.btn .btn-outline-secondary .btn-sm role="button"}
+Karla Rubio‐Jovel, Jorge Sellare, **Yannic Damm**, & Thomas Dietz (2024). SDGs Trade‐Offs Associated with Voluntary Sustainability Standards: A Case Study from the Coffee Sector in Costa Rica. *Sustainable Development* 32 (1): 917–939- DOI: [10.1002/sd.2701](https://doi.org/10.1002/sd.2701).{.btn .btn-outline-primary .btn-sm role="button"}{.btn .btn-outline-secondary .btn-sm role="button"}
 
 ::: {.callout-note collapse="true" icon="false"}
 ## Abstract
