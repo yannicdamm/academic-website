@@ -4,13 +4,39 @@ title: "Research"
 
 ## Working Papers
 
-**Yannic Damm**, Gustavo Magalhães de Oliveira, & Jan Börner (2025). *Balancing Growth and Conservation: The Economic Impact of Environmental Enforcement in the Brazilian Amazon*. SSRN Scholarly Paper, 5898282. DOI: [10.2139/ssrn.5898282](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5898282){.btn .btn-outline-primary .btn-sm role="button"}
+**Yannic Damm**, Gustavo Magalhães de Oliveira, & Jan Börner (2025). *Balancing Growth and Conservation: The Economic Impact of Environmental Enforcement in the Brazilian Amazon*. SSRN Scholarly Paper, 5898282. DOI: [10.2139/ssrn.5898282](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5898282){.btn .btn-outline-primary .btn-sm role="button"}.{.btn .btn-outline-secondary .btn-sm role="button"}
 
 ::: {.callout-note collapse="true" icon="false"}
 ## Abstract
 
 This paper examines the causal economic impacts of environmental enforcement in the Brazilian Amazon between 2002 and 2016. Using an instrumental variable strategy that exploits exogenous variation in satellite monitoring capacity from cloud cover, we show that stricter enforcement by the federal environmental agency IBAMA significantly reduces deforestation and pasture expansion while shifting agriculture towards soy cultivation. These land-use changes are accompanied by higher soy sector employment, wages, and productivity, without measurable losses in agricultural GDP. However, enforcement reduces the number of rural credit contracts and leads to a notable contraction in municipal public administration jobs. The results indicate that well-targeted enforcement can redirect economic activity towards more intensive and sustainable production without sacrificing output, but complementary measures, such as tailored credit access and technical support are important to address adjustment costs and ensure inclusive gains.
 :::
+
+::: {.callout-note collapse="true" icon="false"}
+## BibTeX
+
+``` bibtex
+@misc{dammBalancingGrowthConservation2025,
+  type = {{{SSRN Scholarly Paper}}},
+  title = {Balancing {{Growth}} and {{Conservation}}: {{The Economic Impact}} of {{Environmental Enforcement}} in the {{Brazilian Amazon}}},
+  shorttitle = {Balancing {{Growth}} and {{Conservation}}},
+  author = {Damm, Yannic and de Oliveira, Gustavo Magalh{\~a}es and B{\"o}rner, Jan},
+  year = 2025,
+  month = dec,
+  number = {5898282},
+  eprint = {5898282},
+  publisher = {Social Science Research Network},
+  address = {Rochester, NY},
+  doi = {10.2139/ssrn.5898282},
+  urldate = {2025-12-12},
+  abstract = {This paper examines the causal economic impacts of environmental enforcement in the Brazilian Amazon between 2002 and 2016. Using an instrumental variable strategy that exploits exogenous variation in satellite monitoring capacity from cloud cover, we show that stricter enforcement by the federal environmental agency IBAMA significantly reduces deforestation and pasture expansion while shifting agriculture towards soy cultivation. These land-use changes are accompanied by higher soy sector employment, wages, and productivity, without measurable losses in agricultural GDP. However, enforcement reduces the number of rural credit contracts and leads to a notable contraction in municipal public administration jobs. The results indicate that well-targeted enforcement can redirect economic activity towards more intensive and sustainable production without sacrificing output, but complementary measures, such as tailored credit access and technical support are important to address adjustment costs and ensure inclusive gains.},
+  archiveprefix = {Social Science Research Network},
+  langid = {english},
+  keywords = {Brazilian Amazon,Deforestation,Environmental Enforcement,Labor Markets,Land-Use Change}
+}
+```
+:::
+
 
 ------------------------------------------------------------------------
 
@@ -50,7 +76,13 @@ This paper aims to explain producer compliance with Voluntary Sustainability Sta
 
 <br>
 
-**Yannic Damm**, Jan Börner, Nicolas Gerber, & Britaldo Soares Filho (2024). Health Benefits of Reduced Deforestation in the Brazilian Amazon. *Communications Earth & Environment* 5 (1): 1–9. DOI: [10.1038/s43247-024-01840-7](https://doi.org/10.1038/s43247-024-01840-7){.btn .btn-outline-primary .btn-sm role="button"}.
+**Yannic Damm**, Jan Börner, Nicolas Gerber, & Britaldo Soares Filho (2024). Health Benefits of Reduced Deforestation in the Brazilian Amazon. *Communications Earth & Environment* 5 (1): 1–9. DOI: [10.1038/s43247-024-01840-7](https://doi.org/10.1038/s43247-024-01840-7){.btn .btn-outline-primary .btn-sm role="button"}.{.btn .btn-outline-secondary .btn-sm role="button"}
+
+::: {.callout-note collapse="true" icon="false"}
+## Abstract
+
+The conversion of tropical forests in the Amazon region for agriculture and other land uses is associated with health risks linked, for example, to air and water pollution from forest fires and agrochemical use. Several conservation policies introduced in the 2000s aimed at reducing deforestation in the Brazilian Amazon. Here we exploit variations in the regional targeting of these policies to measure human health externalities of conservation policy enforcement using a double-difference approach at close distance to the Amazon biome border. We find that the change in deforestation pressure reduces forest fire incidence. As a consequence, fine particulate matter concentrations in the air—a main vector for adverse health effects of fire smoke—also decrease. This leads to a reduction in the hospitalization and death prevalence rate due to respiratory health problems and other health benefits for the local population.
+:::
 
 ::: {.callout-note collapse="true" icon="false"}
 ## BibTeX
@@ -81,7 +113,13 @@ This paper aims to explain producer compliance with Voluntary Sustainability Sta
 
 <br>
 
-**Yannic Damm**, Elías Cisneros, & Jan Börner (2024). Beyond Deforestation Reductions: Public Disclosure, Land-Use Change and Commodity Sourcing. *World Development* 175: 106481. DOI: [10.1016/j.worlddev.2023.106481](https://doi.org/10.1016/j.worlddev.2023.106481){.btn .btn-outline-primary .btn-sm role="button"}.
+**Yannic Damm**, Elías Cisneros, & Jan Börner (2024). Beyond Deforestation Reductions: Public Disclosure, Land-Use Change and Commodity Sourcing. *World Development* 175: 106481. DOI: [10.1016/j.worlddev.2023.106481](https://doi.org/10.1016/j.worlddev.2023.106481){.btn .btn-outline-primary .btn-sm role="button"}.{.btn .btn-outline-secondary .btn-sm role="button"}
+
+::: {.callout-note collapse="true" icon="false"}
+## Abstract
+
+Global commodity supply chains contribute significantly to environmental degradation and greenhouse gas emissions. Improving supply chain transparency can create public awareness and encourage relevant actors to improve their ecological footprint. We exploit Brazil’s Priority List policy for the Amazon region, a public disclosure mechanism introduced in 2008 that effectively reduced deforestation rates, to study how land users and commodity traders respond to the corresponding reputational risk exposure. Specifically, we combine remotely sensed land use data with spatio-temporally disaggregated soy trade statistics covering 15 years and 770 municipalities to measure the effect of priority listing on land-use change, sourcing patterns, and trade destinations. Using the Generalized Synthetic Control method, we find that priority listing led to a sizeable drop in deforestation and a corresponding reduction in pasture expansion. At the same time, soy expansion increased significantly, but instead of expanding into natural forests, it mostly replaced existing pastures and other cropland. The additional soy production was exported predominantly to China, whereas exports to the EU stagnated.
+:::
 
 ::: {.callout-note collapse="true" icon="false"}
 ## BibTeX
@@ -89,17 +127,20 @@ This paper aims to explain producer compliance with Voluntary Sustainability Sta
 ``` bibtex
 @article{dammDeforestationReductionsPublic2024,
   title = {Beyond {{Deforestation Reductions}}: {{Public Disclosure}}, {{Land-Use Change}} and {{Commodity Sourcing}}},
+  shorttitle = {Beyond {{Deforestation Reductions}}},
   author = {Damm, Yannic and Cisneros, El{\'i}as and B{\"o}rner, Jan},
   year = 2024,
   month = mar,
   journal = {World Development},
   volume = {175},
   pages = {106481},
-  publisher = {Elsevier BV},
   issn = {0305-750X},
   doi = {10.1016/j.worlddev.2023.106481},
-  langid = {english}
+  urldate = {2026-08-21},
+  abstract = {Global commodity supply chains contribute significantly to environmental degradation and greenhouse gas emissions. Improving supply chain transparency can create public awareness and encourage relevant actors to improve their ecological footprint. We exploit Brazil's Priority List policy for the Amazon region, a public disclosure mechanism introduced in 2008 that effectively reduced deforestation rates, to study how land users and commodity traders respond to the corresponding reputational risk exposure. Specifically, we combine remotely sensed land use data with spatio-temporally disaggregated soy trade statistics covering 15 years and 770 municipalities to measure the effect of priority listing on land-use change, sourcing patterns, and trade destinations. Using the Generalized Synthetic Control method, we find that priority listing led to a sizeable drop in deforestation and a corresponding reduction in pasture expansion. At the same time, soy expansion increased significantly, but instead of expanding into natural forests, it mostly replaced existing pastures and other cropland. The additional soy production was exported predominantly to China, whereas exports to the EU stagnated.},
+  keywords = {Brazilian Amazon,Deforestation,Land-use change,Soy exports,Supply chain}
 }
+
 
 }
 ```
@@ -107,7 +148,13 @@ This paper aims to explain producer compliance with Voluntary Sustainability Sta
 
 <br>
 
-Karla Rubio‐Jovel, Jorge Sellare, **Yannic Damm**, & Thomas Dietz (2024). SDGs Trade‐Offs Associated with Voluntary Sustainability Standards: A Case Study from the Coffee Sector in Costa Rica. *Sustainable Development* 32 (1): 917–939- DOI: [10.1002/sd.2701](https://doi.org/10.1002/sd.2701){.btn .btn-outline-primary .btn-sm role="button"}
+Karla Rubio‐Jovel, Jorge Sellare, **Yannic Damm**, & Thomas Dietz (2024). SDGs Trade‐Offs Associated with Voluntary Sustainability Standards: A Case Study from the Coffee Sector in Costa Rica. *Sustainable Development* 32 (1): 917–939- DOI: [10.1002/sd.2701](https://doi.org/10.1002/sd.2701){.btn .btn-outline-primary .btn-sm role="button"}.{.btn .btn-outline-secondary .btn-sm role="button"}
+
+::: {.callout-note collapse="true" icon="false"}
+## Abstract
+
+The transition toward a more sustainable agricultural production has become an essential step in achieving the sustainable development goals (SDGs), launched by the United Nations in 2015. Voluntary sustainability standards (VSS) have been proposed as a useful governance tool for guiding this transition. Thus, this article uses a case study from the coffee sector in Costa Rica to assess the contribution of VSSs to the achievement of the SDGs. We rely on panel data from coffee producers captured between 2017 and 2019 to carry out this assessment. Results of the statistical analysis suggest that VSSs alone are not enough to promote a transition to a more sustainable coffee production, as trade-offs between the contributions of VSSs to the different SDGs emerge. If the VSSs are to promote sustainable practices among producers while ensuring socioeconomic benefits for producers, workers, and their families, implementation modifications are required.
+:::
 
 ::: {.callout-note collapse="true" icon="false"}
 ## BibTeX
