@@ -5,7 +5,10 @@ execute:
   freeze: true
 
 website:
+  site-url: "https://yannicdamm.netlify.app"
   title: "Yannic Damm"
+  description: "Personal website of Yannic Damm – Environmental Economist & Postdoctoral Researcher at the University of Bonn."
+  site-path: "/"
   navbar:
     left:
       - href: index.qmd
