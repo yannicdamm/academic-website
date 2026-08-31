@@ -14,6 +14,6 @@ about:
 
 I am an environmental economist and postdoctoral researcher at the University of Bonn (Institute for Food and Resource Economics).
 
-My research focuses on land-use dynamics, environmental policy enforcement, and the local public health impacts of forest conservation, primarily in the Brazilian Amazon. Methodologically, I combine spatial data science in R with empirical impact evaluation to study policy outcomes at scale.
+My research focuses on land-use dynamics, environmental policies, and the co-benefits of forest conservation. Methodologically, I combine spatial data science in R with empirical impact evaluation to study policy outcomes at scale.
 
 You can find my working papers and publications on the [Research](research.qmd) page, or view my full academic record in my [CV](cv.pdf).

@@ -12,7 +12,11 @@ website:
         text: Home
       - href: research.qmd
         text: Research
-      - href: cv.pdf # You will drop your CV pdf in the main folder later
+      - href: teaching.qmd
+        text: Teaching
+      - href: talks.qmd
+        text: Conferences & Talks
+      - href: cv.pdf
         text: CV
     right:
       - text: "{{< ai orcid >}}"
