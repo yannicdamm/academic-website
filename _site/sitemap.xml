@@ -2,10 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://yannicdamm.netlify.app/teaching.html</loc>
-    <lastmod>2026-08-31T13:28:31.393Z</lastmod>
+    <lastmod>2026-08-31T13:42:21.515Z</lastmod>
+  </url>
+  <url>
+    <loc>https://yannicdamm.netlify.app/research.html</loc>
+    <lastmod>2026-08-28T10:11:40.579Z</lastmod>
+  </url>
+  <url>
+    <loc>https://yannicdamm.netlify.app/about.html</loc>
+    <lastmod>2026-05-19T14:09:50.000Z</lastmod>
   </url>
   <url>
     <loc>https://yannicdamm.netlify.app/index.html</loc>
     <lastmod>2026-08-28T09:54:54.570Z</lastmod>
+  </url>
+  <url>
+    <loc>https://yannicdamm.netlify.app/talks.html</loc>
+    <lastmod>2026-08-28T10:35:56.136Z</lastmod>
   </url>
 </urlset>
